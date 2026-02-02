@@ -1,0 +1,7 @@
+start_city,end_city,distance_km,travel_time_hr,fuel_cost,traffic_level
+Bangalore,Mysore,145,3.5,900,Medium
+Bangalore,Chennai,350,7.5,2400,High
+Bangalore,Hyderabad,570,10.0,3800,Medium
+Mysore,Coorg,120,3.0,850,Low
+Chennai,Pondicherry,150,3.2,1000,Low
+Hyderabad,Pune,560,11.0,4200,High

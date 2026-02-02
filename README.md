@@ -35,12 +35,12 @@ This project is a data-driven Road Trip Planner that analyzes travel data and pr
  src/
  requirements.txt
 
-Results
+Results:
 
 The model successfully predicts travel time with high accuracy, demonstrating effective feature engineering and regression modeling.
 
 👩‍💻 Author
 
-Anusha K A
+  Anusha K A
 
 

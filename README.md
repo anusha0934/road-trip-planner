@@ -25,6 +25,7 @@ This project is a data-driven Road Trip Planner that analyzes travel data and pr
 
 ## 📈 Model Performance
 - Mean Absolute Error (MAE): ~0.57
+- R² Score: ~0.90
 
 ## 📂 Project Structure
  data/
@@ -40,6 +41,3 @@ The model successfully predicts travel time with high accuracy, demonstrating ef
 Anusha K A
 
 
-- R² Score: ~0.90
-
-## 📂 Project Structure

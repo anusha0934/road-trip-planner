@@ -41,6 +41,6 @@ The model successfully predicts travel time with high accuracy, demonstrating ef
 
 👩‍💻 Author
 
-  Anusha K A
+   Anusha K A
 
 

@@ -26,6 +26,7 @@ This project is a data-driven Road Trip Planner that analyzes travel data and pr
 ## 📈 Model Performance
 - Mean Absolute Error (MAE): ~0.57
 - R² Score: ~0.90
+- Strong correlation between distance, speed, and travel time
 
 ## 📂 Project Structure
  data/
@@ -35,9 +36,11 @@ This project is a data-driven Road Trip Planner that analyzes travel data and pr
  requirements.txt
 
 Results
+
 The model successfully predicts travel time with high accuracy, demonstrating effective feature engineering and regression modeling.
 
 👩‍💻 Author
+
 Anusha K A
 
 
